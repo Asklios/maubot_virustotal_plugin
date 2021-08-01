@@ -1,0 +1,11 @@
+maubot: 0.1.0
+id: de.asklios.virustotal
+version: 1.0.0
+
+modules:
+- virustotal
+main_class: VirusTotal
+
+config: true
+extra_files:
+  - base-config.yaml
